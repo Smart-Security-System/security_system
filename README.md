@@ -1,4 +1,4 @@
-#Abstract
+# Abstract
 
 Recently, there has been an increase in the crimes committed . From petty thefts to women's safety issues, it has become near to impossible to monitor every nook and corner of all the streets in the cities.
 Although we have a very effective law enforcement systems, there still stands a need for the technology to improve and support this existing system. 
